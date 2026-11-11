@@ -1,0 +1,9 @@
+set={10,20,30,40}
+s2={50,20,30,60}
+set.add(50)
+print(set)
+print(set.union(s2))
+print(set.difference(s2))
+print(set.issubset(s2))
+print(set.symmetric_difference(s2))
+print(set.isdisjoint(s2))
