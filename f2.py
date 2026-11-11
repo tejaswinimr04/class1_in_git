@@ -1,0 +1,6 @@
+tuple=(40,10,20,10,30)
+dt=type(tuple)
+print(dt)
+print(tuple.count(10))
+tuple.index(30)
+print(tuple)
