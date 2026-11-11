@@ -1,5 +1,6 @@
 list = [3,80,40,10,5,30,10]
-l2=[70,100]
+l2=[70,100,60]
+print(len(l2))
 size=len(list)
 print(size)
 dt=type(list)
